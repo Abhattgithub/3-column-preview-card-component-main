@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Abhattgithub/3-column-preview-card-component-main]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://abhattgithub.github.io/3-column-preview-card-component-main/]
 
 ### Built with
 
