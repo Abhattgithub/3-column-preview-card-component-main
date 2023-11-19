@@ -83,7 +83,8 @@ a{
 #luxury a{
     color: hsl(179, 100%, 13%);
 }
-#luxury a:active{
+#luxury a:active,
+#luxury a:hover{
     background-color: hsl(179, 100%, 13%);
     color: hsla(0, 0%, 100%, 0.75);
     border: 3px solid white;
